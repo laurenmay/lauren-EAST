@@ -1,5 +1,5 @@
 # lauren-EAST
-my project portfolio 
+the hall way 
 
 ###360
 
